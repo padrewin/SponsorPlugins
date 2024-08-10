@@ -6,6 +6,7 @@ Thank you to everyone who has supported me so far! I have decided to make all pl
 You can now access all of the following plugins for free:
 
 - #### [MinecordBridge](MinecordBridge.md)
+- ### [SpiderSense](SpiderSense.md)
 - #### and more coming soon..
 
 You also have access to additional plugins from [Cold Development](https://github.com/orgs/Cold-Development/repositories) that are already free!
