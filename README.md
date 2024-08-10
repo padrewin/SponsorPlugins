@@ -14,8 +14,6 @@ You can now access all of the following plugins for free:
 - #### [ColdHudBar](ColdHudBar.md)
 - #### and more coming soon...
 
-You also have access to additional plugins from [Cold Development](https://github.com/orgs/Cold-Development/repositories) that are already free!
-
 ### Support
 
 If you would like to support me and help continue the development of this project, you can do so through [GitHub Sponsors](https://github.com/sponsors/padrewin). Your support is appreciated and helps me continue to develop and improve these plugins.
