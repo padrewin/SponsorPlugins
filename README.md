@@ -5,9 +5,14 @@ Thank you to everyone who has supported me so far! I have decided to make all pl
 ### Plugins
 You can now access all of the following plugins for free:
 
+- #### [EnderScythe](EnderScythe.md)
 - #### [MinecordBridge](MinecordBridge.md)
-- ### [SpiderSense](SpiderSense.md)
-- #### and more coming soon..
+- #### [GiveAll](GiveAll.md)
+- #### [SpiderSense](SpiderSense.md)
+- #### [ColdPouch](ColdPouch.md)
+- #### [WelcomeHead](WelcomeHead.md)
+- #### [ColdHudBar](ColdHudBar.md)
+- #### and more coming soon...
 
 You also have access to additional plugins from [Cold Development](https://github.com/orgs/Cold-Development/repositories) that are already free!
 
