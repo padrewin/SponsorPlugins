@@ -1,27 +1,32 @@
 # SponsorPlugins
 
-Folks that [sponsor me on GitHub](https://github.com/sponsors/padrewin) will gain access to some exclusive plugins, which are available on **Cold Development**'s [Discord](https://discord.colddev.dev) server.
-
-Below is a list of what you get access to when ***you choose to support my work for Cold Development plugins.***<br>
-If you've become a sponsor drop into the Discord and give me an @ letting me know!
-
-Your developer,<br>
-padrewin
+Thank you to everyone who has supported me so far! I have decided to make all plugins available for free to everyone. There are no financial requirements for accessing the plugins anymore.
 
 ### Plugins
-Get all of the following for as little as $4 per month:
+You can now access all of the following plugins for free:
 
 - #### [MinecordBridge](MinecordBridge.md)
-- #### more soon..
+- #### and more coming soon..
 
-You also have some additional plugins from [Cold Development](https://github.com/orgs/Cold-Development/repositories) you already get for free!
+You also have access to additional plugins from [Cold Development](https://github.com/orgs/Cold-Development/repositories) that are already free!
+
+### Support
+
+If you would like to support me and help continue the development of this project, you can do so through [GitHub Sponsors](https://github.com/sponsors/padrewin). Your support is appreciated and helps me continue to develop and improve these plugins.
 
 ### FAQ
 
-**Q:** If I sponsor, will I get updates forever?<br>
-**A:** Sponsors gain access to the plugin Discord channels while they sponsor, and will have any updates that come out while their sponsorship is active. You will not get updates forever.
+**Q:** If I support the project, will I receive updates for the plugins?<br>
+**A:** Yes, all supporters will have access to the plugin discussion channels and will receive updates for plugins as long as they continue to support the project.
 
 ---
 
-**Q:** Can I do a one-time sponsorship?<br>
-**A:** Yes, one-time sponsors get 1 month of access to the Sponsor plugins.
+**Q:** Can I make a one-time contribution?<br>
+**A:** Yes, you can make a one-time contribution, and your support will be greatly appreciated and will help keep the project going.
+
+---
+
+Thank you for your support!
+
+Your developer,<br>
+padrewin
