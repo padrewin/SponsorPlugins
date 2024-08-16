@@ -13,7 +13,7 @@ You can now access all of the following plugins for free:
     [**Wiki**](https://github.com/Cold-Development/GiveAll/wiki) | [**Spigot**](https://www.spigotmc.org/resources/giveall.116984/)
 - #### [SpiderSense](https://github.com/Cold-Development/SpiderSense)
     [**Wiki**](https://github.com/Cold-Development/SpiderSense) | [**Spigot**](https://www.spigotmc.org/resources/spidersense.118609/)
-- #### [ColdPouch](https://github.com/Cold-Development/MoneyPouchDeluxe)
+- #### [MoneyPouchDeluxe](https://github.com/Cold-Development/MoneyPouchDeluxe)
     [**Wiki**](https://github.com/Cold-Development/MoneyPouchDeluxe) | [**Spigot**](https://www.spigotmc.org/resources/moneypouchdeluxe.118795/)
 - #### [WelcomeHead](https://github.com/Cold-Development/WelcomeHead)
     [**Wiki**](https://github.com/Cold-Development/WelcomeHead/wiki) | [**Spigot**](https://www.spigotmc.org/resources/welcomehead.118054/)
